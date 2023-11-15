@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 shell.h
+=======
+>>>>>>> b0e0259f233b73b82ca1efdc89f403475d225fc5
 #ifndef _SHELL_H_
 #define _SHELL_H_
 
@@ -233,4 +236,8 @@ int replace_alias(info_t *);
 int replace_vars(info_t *);
 int replace_string(char **, char *);
 
+<<<<<<< HEAD
 #endf
+=======
+#endif
+>>>>>>> b0e0259f233b73b82ca1efdc89f403475d225fc5
